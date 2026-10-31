@@ -3,9 +3,9 @@
 
 **122 Posters | 29 Visual Styles | One Creative Exploration**
 
-A self-initiated graphic design collection exploring the intersection of visual storytelling, typography, composition, colour theory, and contemporary design aesthetics.
+An independent graphic design collection exploring the intersection of visual storytelling, typography, composition, colour theory, and contemporary design aesthetics.
 
-This project brings together 122 poster designs across 29 distinct visual styles, demonstrating how different artistic directions can communicate ideas, establish moods, and create memorable visual experiences.
+This collection brings together 122 poster designs across 29 distinct visual styles, demonstrating how different artistic directions can communicate ideas, establish moods, and create memorable visual experiences.
 
 ## Explore the Live Collection
 
@@ -13,9 +13,11 @@ This project brings together 122 poster designs across 29 distinct visual styles
 
 ## About the Project
 
-The Poster Design Collection is an independent creative exploration developed to experiment with diverse graphic design languages and visual communication techniques.
+The Poster Design Collection is a self-initiated creative exploration developed to experiment with diverse graphic design languages and visual communication techniques.
 
 Rather than following a single aesthetic, the collection explores multiple creative directions, examining how typography, layout, colour, imagery, and composition influence visual identity and storytelling.
+
+The posters also form part of a broader exploration of advertising creative styles and AI-assisted visual communication.
 
 ## Creative Focus
 
@@ -45,11 +47,12 @@ Great visual design is not defined by a single style. It is shaped by the abilit
 
 This collection celebrates experimentation, creative versatility, and the relationship between design principles and artistic expression.
 
-## Portfolio
+## Explore More Creative Work
 
-Explore more of my work in digital marketing, creative strategy, branding, and visual communication.
+Discover more of my creative explorations across advertising, branding, and visual communication.
 
-**[Visit My Main Portfolio](https://chitramarketingportfolio.netlify.app/)**
+- **[AI Visual Ads Collection](https://visual-ads.netlify.app/)** – A collection of AI-generated advertising concepts and visual styles.
+- **[Main Portfolio](https://chitramarketingportfolio.netlify.app/)** – Digital marketing, creative strategy, and marketing projects.
 
 ---
 
@@ -59,4 +62,5 @@ This is a self-initiated creative exploration developed for portfolio demonstrat
 
 **Created by Chitrangada Mishra**
 
-*Graphic Design | Creative Direction | Visual Storytelling*
+*Graphic Design | Visual Communication | AI Advertising | Creative Direction*
+
